@@ -1,5 +1,5 @@
-
-
-http://bit.ly/1jiiMw5
+## Shortner Long URLs
 
 https://goo.gl/
+
+https://bitly.com/
