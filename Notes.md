@@ -1,6 +1,6 @@
 ## Shortner Long URLs
 
-Here is a list of resources where you can go and shortener your Long URLs.
+Here is a list of sites where you can go and shortener your Long URLs.
 
 0. https://goo.gl/
 
