@@ -2,14 +2,12 @@
 
 Here is a list of resources where you can go and shortener your Long URLs.
 
-https://goo.gl/
+0. https://goo.gl/
 
-https://bitly.com/
+0. https://bitly.com/
 
-ow.ly
+0. http://ow.ly/url/shorten-url
 
-t.co 
+0 .http://tinyurl.com/
 
-TinyURL
-
-Tr.im
+0. https://tr.im/
