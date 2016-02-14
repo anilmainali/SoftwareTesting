@@ -13,8 +13,8 @@ Here is a list of sites where you can go and shortener your Long URLs.
 0. https://tr.im/
 
 
-Some Developers Tools to explore
+## Some Developers Tools to explore
 
-Google developer Tool
+0. Google developer Tool
 
-FireFox developer Tool
+0. FireFox developer Tool
