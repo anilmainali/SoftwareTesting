@@ -11,3 +11,10 @@ Here is a list of sites where you can go and shortener your Long URLs.
 0. http://tinyurl.com/
 
 0. https://tr.im/
+
+
+Some Developers Tools to explore
+
+Google developer Tool
+
+FireFox developer Tool
