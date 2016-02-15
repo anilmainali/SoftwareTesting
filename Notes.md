@@ -26,5 +26,9 @@ What is VTS?
 Advantages of VTS
 
 How to install VTS?
+
+## JavaScript Resources
+
+https://www.youtube.com/watch?v=VEzWZav5EkA
  
 
