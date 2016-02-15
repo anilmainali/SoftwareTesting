@@ -30,5 +30,7 @@ How to install VTS?
 ## JavaScript Resources
 
 https://www.youtube.com/watch?v=VEzWZav5EkA
+
+https://www.youtube.com/watch?v=IHbvJE5giVs&list=PLHpTOkCsd2tOCiTNBm8uDvZNPf6gfYNok
  
 
