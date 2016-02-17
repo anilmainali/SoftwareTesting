@@ -1,5 +1,12 @@
 ## Great blogs and website to follow 
 
+0. http://wilsonmar.com/
+0. http://www.satisfice.com/
+0. http://www.developsense.com/blog/
+0. http://www.perftestplus.com/
+0. http://www.alexanderpodelko.com/
+0. http://shrinik.blogspot.com/
+
 ## Shortner Long URLs
 
 Here is a list of sites where you can go and shortener your Long URLs.
