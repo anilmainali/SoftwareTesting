@@ -7,6 +7,13 @@
 0. http://www.alexanderpodelko.com/
 0. http://shrinik.blogspot.com/
 
+## Great new social media sites to signup for
+
+0. https://www.periscope.tv/
+0. https://katch.me/
+0. 
+
+
 ## Shortner Long URLs
 
 Here is a list of sites where you can go and shortener your Long URLs.
