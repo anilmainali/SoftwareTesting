@@ -11,7 +11,10 @@
 
 0. https://www.periscope.tv/
 0. https://katch.me/
-0. 
+
+## GEO TARGETED TWITTER ANALYTICS AND MANAGEMENT (Deep Twitter Analytics)
+
+0. http://tweepsmap.com/
 
 
 ## Shortner Long URLs
