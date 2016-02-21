@@ -12,6 +12,11 @@
 0. http://moolya.com/
 0. http://www.c-sharpcorner.com/
 
+## Useful Tool to Take a screenshot or a screencast
+
+0. https://getsharex.com/
+
+
 ## File Format API's
 
 0. http://www.aspose.com/ 
