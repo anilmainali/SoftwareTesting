@@ -8,6 +8,7 @@
 0. http://shrinik.blogspot.com/
 0. https://testinsane.com/
 0. http://tuppad.com/blog/
+0. http://www.c-sharpcorner.com/
 
 ## Great new social media sites to signup for
 
