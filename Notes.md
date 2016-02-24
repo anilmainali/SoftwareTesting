@@ -20,6 +20,10 @@
 0. https://getsharex.com/
 0. http://www.screenpresso.com/
 
+## Useful Tool to test the App
+0. http://gojko.github.io/bugmagnet/
+
+
 ## Tools to build Customized Diagrams and Report
 
 0. http://www.axure.com/
