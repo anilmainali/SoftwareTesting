@@ -23,6 +23,10 @@
 ## Useful Tool to test the App
 0. http://gojko.github.io/bugmagnet/
 
+## Useful Tool to wipe out all your Twitter Tweets
+0. http://twitwipe.com/
+
+
 
 ## Tools to build Customized Diagrams and Report
 
