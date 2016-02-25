@@ -21,6 +21,10 @@
 0. https://getsharex.com/
 0. http://www.screenpresso.com/
 
+## Pretty useful tools to find console logs for iOS device
+### iTools
+0. http://pro.itools.cn/itools3_en
+
 ## Useful Tool to test the App
 0. http://gojko.github.io/bugmagnet/
 
