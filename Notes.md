@@ -11,6 +11,7 @@
 0. https://www.testingcircus.com/
 0. http://moolya.com/
 0. http://www.c-sharpcorner.com/
+0. http://testfairy.com/
 
 ## Useful Tool to Take a screenshot or a screencast
 
