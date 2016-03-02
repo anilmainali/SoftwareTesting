@@ -21,6 +21,7 @@
 0. http://www.airserver.com/
 0. https://getsharex.com/
 0. http://www.screenpresso.com/
+0. http://www.lonelyscreen.com/
 
 ## Pretty useful tools to find console logs for iOS device
 ### iTools
