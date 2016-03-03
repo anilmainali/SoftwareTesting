@@ -85,6 +85,14 @@ Advantages of VTS
 
 How to install VTS?
 
+
+## Some cross browser testing tools
+http://www.softwaretestingnews.co.uk/why-cross-browser-testing-is-important-and-which-tool-should-i-use/
+
+0. Saucelabs
+0. Browserstack
+0. Crossbrowsertesting.com
+
 ## JavaScript Resources
 
 https://www.youtube.com/watch?v=VEzWZav5EkA
