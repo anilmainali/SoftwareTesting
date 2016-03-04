@@ -111,6 +111,13 @@ Random Email Address Generator
 
 http://www.anonymailer.net/
 
+http://www.fakemailgenerator.com/
+
+http://www.throwawaymail.com/ [good for practicing for dynamic email script for correlation]
+
+http://emailgenerator.io/
+
+
 
  
 
