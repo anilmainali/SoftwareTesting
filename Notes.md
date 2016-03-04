@@ -98,5 +98,15 @@ http://www.softwaretestingnews.co.uk/why-cross-browser-testing-is-important-and-
 https://www.youtube.com/watch?v=VEzWZav5EkA
 
 https://www.youtube.com/watch?v=IHbvJE5giVs&list=PLHpTOkCsd2tOCiTNBm8uDvZNPf6gfYNok
+
+## Create Testing Environment for ease of testing.
+
+## Email address for testing quickly
+
+http://www.yopmail.com/en/
+
+http://www.anonymailer.net/
+
+
  
 
