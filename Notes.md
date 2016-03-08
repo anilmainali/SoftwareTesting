@@ -117,6 +117,8 @@ http://www.throwawaymail.com/ [good for practicing for dynamic email script for 
 
 http://emailgenerator.io/
 
+http://www.mailinator.com/
+
 
 
  
