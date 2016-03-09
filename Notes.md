@@ -119,6 +119,9 @@ http://emailgenerator.io/
 
 http://www.mailinator.com/
 
+## Mind Mapping Software
+
+0. https://www.xmind.net/
 
 
  
