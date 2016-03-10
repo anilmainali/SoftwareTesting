@@ -12,6 +12,7 @@
 0. http://moolya.com/
 0. http://www.c-sharpcorner.com/
 0. http://testfairy.com/
+0. http://www.te52.com/testtalk/
 
 ## Useful Tool to Take a screenshot or a screencast
 
