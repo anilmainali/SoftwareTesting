@@ -128,5 +128,9 @@ http://www.mailinator.com/
 
 http://www.sample-videos.com/
 
+## Picture uploading Sites
+
+http://imgur.com/
+
  
 
