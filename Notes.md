@@ -132,5 +132,9 @@ http://www.sample-videos.com/
 
 http://imgur.com/
 
+## Learn to hack. Learn to protect yourself.
+
+https://www.hacksplaining.com/
+
  
 
