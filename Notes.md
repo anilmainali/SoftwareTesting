@@ -154,7 +154,11 @@ http://www.tomsplanner.com/
 
 
 ## To Learn different Programming Language.
-http://www.w3schools.com/ 
+http://www.w3schools.com/
+
+## Reference for JavaScript
+
+http://homepage.ntlworld.com/kayseycarvey/jss3p5.html
 
 
  
