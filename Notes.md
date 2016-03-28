@@ -148,8 +148,12 @@ http://fabian-kostadinov.github.io
 http://www.lcoffers.com/index.htm?atid=011076001001006000000000005009&q=image+getty+imagery&askw=image+getty+imagery&lid=12413
 
 
+
+
 http://www.tomsplanner.com/
 
+
+## To Learn different Progtamming Language.
 http://www.w3schools.com/ 
 
 
