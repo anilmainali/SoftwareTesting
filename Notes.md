@@ -166,5 +166,9 @@ http://nonfunctionaltestingtools.blogspot.com/2015/01/verifications-and-error-ha
 ## Survey Taking
 
 https://www.surveymonkey.com/
+
+Create and publish interactive maps
+
+https://www.zeemaps.com/
  
 
