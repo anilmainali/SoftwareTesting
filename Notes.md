@@ -174,3 +174,5 @@ https://www.zeemaps.com/
 https://www.freecodecamp.com/
 
 Go-text.me
+
+https://algorithmia.com/
