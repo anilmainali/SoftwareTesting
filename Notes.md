@@ -5,6 +5,7 @@
 0. http://www.satisfice.com/
 0. http://www.developsense.com/blog/
 0. http://www.perftestplus.com/
+0. http://testobsessed.com/
 0. http://www.alexanderpodelko.com/
 0. http://shrinik.blogspot.com/
 0. https://testinsane.com/
