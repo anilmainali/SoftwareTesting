@@ -184,3 +184,6 @@ https://algorithmia.com/
 0. http://www.vishacademy.com/
 0. https://www.youtube.com/playlist?list=PLHpTOkCsd2tOCiTNBm8uDvZNPf6gfYNok&nohtml5=False
 
+## Interesting web sites to check out
+
+http://how-old.net/
