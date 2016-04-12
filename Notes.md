@@ -187,3 +187,7 @@ https://algorithmia.com/
 ## Interesting web sites to check out
 
 http://how-old.net/
+
+## Free Computer Help and Information
+
+http://www.computerhope.com/
