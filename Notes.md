@@ -26,6 +26,9 @@
 0. https://getsharex.com/
 0. http://www.screenpresso.com/
 0. http://www.lonelyscreen.com/
+1. 
+## Desktop Recording Tool
+http://findnerd.com/
 
 ## Pretty useful tools to find console logs for iOS device
 ### iTools
