@@ -3,6 +3,7 @@
 0. http://wilsonmar.com/
 0. http://wilsonmar.github.io/
 0. http://www.satisfice.com/
+0. http://www.vishacademy.com/
 0. http://www.developsense.com/blog/
 0. http://www.perftestplus.com/
 0. http://testobsessed.com/
