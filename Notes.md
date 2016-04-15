@@ -194,3 +194,5 @@ http://how-old.net/
 ## Free Computer Help and Information
 
 http://www.computerhope.com/
+
+quip.com
