@@ -197,3 +197,5 @@ http://www.computerhope.com/
 
 https://jackmartin6.wordpress.com/2015/10/19/ways-to-improve-performance-testing/
 quip.com
+
+https://mobileapplicationtesting.wordpress.com/
