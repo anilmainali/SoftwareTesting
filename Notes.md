@@ -2,6 +2,7 @@
 
 0. http://wilsonmar.com/
 0. http://wilsonmar.github.io/
+0. https://northwaysolutions.com/blog/
 0. http://www.satisfice.com/
 0. http://www.vishacademy.com/
 0. http://www.developsense.com/blog/
