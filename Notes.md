@@ -20,6 +20,20 @@
 0. http://testfairy.com/
 0. http://www.te52.com/testtalk/
 
+#### Create your QR code for free
+http://www.qr-code-generator.com/?PID=1080&kw=%2Bhow%20%2Bto%20%2Bcreate%20%2Bqr&gclid=CL_N3_ix88wCFQUMaQodSAoL7g
+
+#### Steps to Follow:
+
+1.Click on this link http://bit.ly/1qHuSXc
+
+2.Type the hyperlink inside the URL field
+
+3.Click Create QR code.
+
+4.QR Code will be generated for you and you can download it.
+
+
 ## Useful Tool to Take a screenshot or a screencast
 
 0. http://www.apowersoft.com/iphone-ipad-recorder
