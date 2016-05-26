@@ -3,6 +3,7 @@
 0. http://wilsonmar.com/
 0. http://wilsonmar.github.io/
 0. http://performancetesting.in/
+0. http://www.brendanconnolly.net/ - Have Good example of SoapUI
 0. http://james-willett.com/ 
 0. https://northwaysolutions.com/blog/
 0. http://www.orasi.com/Pages/default.aspx
