@@ -11,3 +11,6 @@ http://lrhelp.saas.hp.com/en/latest/help/function_reference/FuncRef.htm
 
 ### Resources on Perf Test
 http://www.testplant.com/events-and-webinars/webinar-archive/
+
+#### DevOps
+http://www.radview.com/blog/4-ideas-for-getting-started-with-devops-performance-testing/
