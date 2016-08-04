@@ -51,7 +51,11 @@ http://www.qr-code-generator.com/?PID=1080&kw=%2Bhow%20%2Bto%20%2Bcreate%20%2Bqr
 0. https://getsharex.com/
 0. http://www.screenpresso.com/
 0. http://www.lonelyscreen.com/
-1. 
+
+## Useful Tool to Compress the pictures to upload for your sire to render quickly
+
+0. https://tinypng.com/
+
 ## Desktop Recording Tool
 http://findnerd.com/
 
