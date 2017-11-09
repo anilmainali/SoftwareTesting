@@ -28,6 +28,14 @@
 ## KisMac
 ## EtherApe
 
+# PROJECT MANAGEMENT TOOL
+
+1. https://trello.com/
+
+2. https://asana.com/
+
+3. https://slack.com/
+
 
 
 ## JSFIDDLER
