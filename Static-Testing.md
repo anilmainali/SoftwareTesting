@@ -2,5 +2,5 @@
 # Static Testing
 ## What is Static Testing?
 ## Overview of Static Testing?
-## Why do Static Trsting?
+## Why do/purpose of Static Trsting?
 
