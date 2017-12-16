@@ -9,4 +9,4 @@
 ## What is Static Testing and Dynamic Testing?
 ## What advantages does Static Testing has over Dynamic Testing?
 ## What are the Elements of Static Testing?
-
+## What are the static testing team consists of?
