@@ -10,8 +10,8 @@
 ## What advantages does Static Testing has over Dynamic Testing?
 ## What are the Elements of Static Testing?
 ## What are the static testing team consists of?
-Moderator
-Manager
-Author
-Reviewer
-Scribe
+- Moderator
+- Manager
+- Author
+- Reviewer
+- Scribe
