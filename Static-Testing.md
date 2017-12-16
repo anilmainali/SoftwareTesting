@@ -6,4 +6,4 @@
 ## Why people do not do Static Testing?
 ## What is the fact?
 ## Why we need to do Static Testing at Every Stage of SDLC?
-
+## What is Static Testing and Dynamic Testing?
