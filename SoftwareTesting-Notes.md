@@ -4,3 +4,4 @@
 
 - Understanding the requirement
 - Implementing individual tests
+- Setting up executing the tests
