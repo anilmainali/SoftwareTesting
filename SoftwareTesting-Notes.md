@@ -20,3 +20,5 @@
 - Improvements
 - Reduced Development time scales.
 - Reduced testing cost and time, lifetime cost.
+- Reductions,fewer defects and improved communitions.
+- Defect Omissions
