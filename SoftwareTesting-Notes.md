@@ -12,3 +12,4 @@
 ## What is Static Testing?
 - Code is not executed
 - Manual review of code,documents to find the errors.
+- Static techniques to find the causes of failures(defects)
