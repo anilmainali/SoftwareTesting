@@ -18,3 +18,5 @@
 - Early defect detection.
 - Development productivity
 - Improvements
+- Reduced Development time scales.
+- Reduced testing cost and time, lifetime cost.
