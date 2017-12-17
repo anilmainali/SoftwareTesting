@@ -15,3 +15,4 @@
 - Static techniques to find the causes of failures(defects)
 
 ## What are the beifits of Static Testing?
+- Early defect detection.
