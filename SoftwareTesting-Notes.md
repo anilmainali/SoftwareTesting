@@ -16,3 +16,5 @@
 
 ## What are the beifits of Static Testing?
 - Early defect detection.
+- Development productivity
+- Improvements
