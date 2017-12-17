@@ -8,3 +8,7 @@
 - Logging outcomes and verifying test execution
 - Analyzing the results
 - Reporting the bugs
+
+## What is Static Testing?
+- Code is not executed
+- Manual review of code,documents to find the errors.
