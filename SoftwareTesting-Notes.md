@@ -6,4 +6,5 @@
 - Implementing individual tests
 - Setting up executing the tests
 - Logging outcomes and verifying test execution
-- Analysing the results
+- Analyzing the results
+- Reporting the bugs
