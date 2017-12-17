@@ -3,3 +3,4 @@
 ## What is the role of a Tester?
 
 - Understanding the requirement
+- Implementing individual tests
