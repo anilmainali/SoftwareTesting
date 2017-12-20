@@ -34,6 +34,8 @@ Tips: You have to elaborate the answer and tell in detail.
 - Development- Sales - Customer Support
 
 ## SOFTWARE (SW) Development Model
+- Waterfall
+- Agile
 
 
 
