@@ -20,7 +20,9 @@ Tips: You have to elaborate the answer and tell in detail.
    - Project Management
    - System Requirement
 
-
+- R&D
+    - QA Team
+    - Development Team
 
 
 
