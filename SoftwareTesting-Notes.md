@@ -4,6 +4,8 @@
 Q stands for quality and A stands for Assurance.
 ## Why Company needs QA?
 Quality
+## QA Types?
+Different industry has different standards/requirements.
 
 
 
