@@ -26,6 +26,8 @@ Tips: You have to elaborate the answer and tell in detail.
 
 - HR
 
+## WHY DO COMPANIES NEED QA TEAM?
+
 
 
 
