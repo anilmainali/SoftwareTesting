@@ -14,6 +14,8 @@ Tips: You have to elaborate the answer and tell in detail.
 
 ## QA ROLES AND RESPONSIBILITIES
 
+### 1. TOP MANAGEMENT
+
 
 
 
