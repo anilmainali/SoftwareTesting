@@ -16,7 +16,9 @@ Tips: You have to elaborate the answer and tell in detail.
 
 ### 1. TOP MANAGEMENT
 
-
+- Sales and Marketing
+   - Project Management
+   - System Requirement
 
 
 
