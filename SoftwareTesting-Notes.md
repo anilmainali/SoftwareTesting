@@ -6,6 +6,9 @@ Q stands for quality and A stands for Assurance.
 Quality
 ## QA Types?
 Different industry has different standards/requirements.
+## QA Professionalism?
+Knowledge
+Experience
 
 
 
