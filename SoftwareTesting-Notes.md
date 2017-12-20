@@ -33,6 +33,8 @@ Tips: You have to elaborate the answer and tell in detail.
 - Support other teams in the company such as: 
 - Development- Sales - Customer Support
 
+## SOFTWARE (SW) Development Model
+
 
 
 
