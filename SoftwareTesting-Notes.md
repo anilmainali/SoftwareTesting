@@ -24,6 +24,7 @@ Tips: You have to elaborate the answer and tell in detail.
     - QA Team
     - Development Team
 
+- HR
 
 
 
