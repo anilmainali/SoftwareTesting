@@ -2,6 +2,7 @@
 #  Software Testing Notes:
 ## What is QA?
 Q stands for quality and A stands for Assurance.
+## Why Company needs QA?
 
 
 
