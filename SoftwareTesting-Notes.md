@@ -27,6 +27,11 @@ Tips: You have to elaborate the answer and tell in detail.
 - HR
 
 ## WHY DO COMPANIES NEED QA TEAM?
+- Product Testing
+- Bug Managing
+- Test cases and procedures development/update
+- Support other teams in the company such as: 
+- Development- Sales - Customer Support
 
 
 
@@ -53,3 +58,5 @@ Tips: You have to elaborate the answer and tell in detail.
 - Reduced testing cost and time, lifetime cost.
 - Reductions,fewer defects and improved communitions.
 - Defect Omissions
+
+
