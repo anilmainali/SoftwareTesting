@@ -10,6 +10,8 @@ Different industry has different standards/requirements.
 Knowledge
 Experience
 
+Tips: You have to elaborate the answer and tell in detail.
+
 
 
 
