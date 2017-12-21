@@ -57,9 +57,9 @@ When you are testing as a action as a regular user should.
 - What a regular user do on regular basis
 
 ## Common Terminology:
-Regression Test
-Smoke Test
-Black Box Tester
+- Regression Test
+- Smoke Test
+- Black Box Tester
 
 
 
