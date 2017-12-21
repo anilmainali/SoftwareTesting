@@ -129,6 +129,16 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 
 ## HTML , JAVASCRIPT,XML
 
+### HTML EXAMPLE
+
+Few places to get your hands dirty;
+- www.w3schools.com
+- watch what is JavaScript on YouTube
+- JavaScript makes pages interactive.
+- Examples : Page content changing without refreshing , Hover Over a mouse an something happens, alert box
+
+
+
 ## What is Static Testing?
 - Code is not executed
 - Manual review of code,documents to find the errors.
