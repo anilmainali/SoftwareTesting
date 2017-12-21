@@ -73,6 +73,8 @@ This kind of testing is done when you try to break the system.
 - Test Case
 - Use Case
 
+## Black Box Testing
+
 
 ## What is Static Testing?
 - Code is not executed
