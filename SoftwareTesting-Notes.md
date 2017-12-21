@@ -37,9 +37,6 @@ Tips: You have to elaborate the answer and tell in detail.
 - Waterfall
 - Agile
 
-
-
-
 ## What is the role of a Tester?
 
 - Understanding the requirement
@@ -58,6 +55,11 @@ When you are testing as a action as a regular user should.
 - Testing as it works as expected
 - Testing a basic functionality
 - What a regular user do on regular basis
+
+## Common Terminology:
+Regression Test
+Smoke Test
+Black Box Tester
 
 
 
