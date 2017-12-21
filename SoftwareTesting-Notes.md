@@ -53,8 +53,14 @@ Tips: You have to elaborate the answer and tell in detail.
 Manual testing is testing a product as a user or try to break the product as a user manually.
 
 ## Positive Testing 
+When you are testing as a action as a regular user should. 
 
-## Negative Testing
+
+## Negative Testng
+
+This kind of testing is done when you try to break the system.
+
+
 
 ## What is Static Testing?
 - Code is not executed
