@@ -127,6 +127,7 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 - coding is fun.
 - when comfortable with test cases apply your coding knowledge to automate your test cases.
 
+## HTML , JAVASCRIPT,XML
 
 ## What is Static Testing?
 - Code is not executed
