@@ -78,6 +78,8 @@ This kind of testing is done when you try to break the system.
 - No access to the source code.
 - Use product as user and report.
 
+Most manual QA start as Black Box Tester
+Easiest way to start a career in QA
 
 
 
