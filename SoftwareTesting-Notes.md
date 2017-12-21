@@ -81,6 +81,11 @@ This kind of testing is done when you try to break the system.
 Most manual QA start as Black Box Tester
 Easiest way to start a career in QA
 
+## White Box Testing
+- Need knowledge of coding.
+- Access to the source code.
+
+
 
 
 ## What is Static Testing?
