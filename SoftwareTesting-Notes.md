@@ -74,6 +74,7 @@ This kind of testing is done when you try to break the system.
 - Use Case
 
 ## Black Box Testing
+- No knowledge of code needed.
 
 
 ## What is Static Testing?
