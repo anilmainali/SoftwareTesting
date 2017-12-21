@@ -50,7 +50,7 @@ Tips: You have to elaborate the answer and tell in detail.
 - Reporting the bugs
 
 ## What is Manual Testing?
-
+Manual testing is testing a product as a user manually.
 
 ## What is Static Testing?
 - Code is not executed
