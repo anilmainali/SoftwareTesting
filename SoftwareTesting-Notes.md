@@ -121,7 +121,8 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 ## Tips
 - First lessons in coding have nothing to do with testing.
 - Recommended to learn coding and manual testing at the same time.
-
+- Find resources to learn manual testing.
+- Choose a programming language and learn.
 
 
 ## What is Static Testing?
