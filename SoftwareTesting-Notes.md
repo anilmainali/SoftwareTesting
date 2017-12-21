@@ -108,7 +108,11 @@ Easiest way to start a career in QA
 
 Look at the examples on how to write some test cases.  Practice Test cases.
 
+## BASIC KNOWLEDGE FOR AUTOMATION
 
+2 Categories for automation 
+1. Testing [Test Cases]
+2. Coding
 
 
 ## What is Static Testing?
