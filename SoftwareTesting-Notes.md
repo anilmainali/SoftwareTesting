@@ -88,6 +88,8 @@ Easiest way to start a career in QA
 - Time consuming.
 - More salary.
 
+## Grey Box Testing
+
 
 
 ## What is Static Testing?
