@@ -91,6 +91,9 @@ Easiest way to start a career in QA
 ## Grey Box Testing
 - Somewhere in middle of Black and White box testing.
 - Do manual testing.
+- No access to the source code but know how components of the application work.
+- Technical but not as technical as White Box Testing.
+
 
 
 ## What is Static Testing?
