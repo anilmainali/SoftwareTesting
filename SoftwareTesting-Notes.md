@@ -136,6 +136,9 @@ Few places to get your hands dirty;
 - watch what is JavaScript on YouTube
 - JavaScript makes pages interactive.
 - Examples : Page content changing without refreshing , Hover Over a mouse an something happens, alert box
+- Practice by creating 2 or 3 pages of your own.
+- Automation is interacting with HTML.
+- Basic HTML is a must for Selenium.
 
 
 
