@@ -114,6 +114,9 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 1. Testing [Test Cases]
 2. Coding
 
+2 Skills can be developed in Parallel
+- Testing: Same as Manual testing , ability write test cases.
+- Coding : Purely technical, writing proper code.
 
 ## What is Static Testing?
 - Code is not executed
