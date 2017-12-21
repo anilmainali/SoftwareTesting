@@ -76,6 +76,8 @@ This kind of testing is done when you try to break the system.
 ## Black Box Testing
 - No knowledge of code needed.
 - No access to the source code.
+- Use product as user and report.
+
 
 
 
