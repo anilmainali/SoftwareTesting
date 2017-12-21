@@ -55,6 +55,9 @@ Manual testing is testing a product as a user or try to break the product as a u
 ## Positive Testing 
 When you are testing as a action as a regular user should. 
 
+- Testing as it works as expected
+
+
 
 ## Negative Testng
 
