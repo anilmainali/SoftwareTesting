@@ -66,7 +66,7 @@ When you are testing as a action as a regular user should.
 This kind of testing is done when you try to break the system.
 - Trying to break the system
 - Try to cause an error
-
+- Try to find some error message
 
 
 ## What is Static Testing?
