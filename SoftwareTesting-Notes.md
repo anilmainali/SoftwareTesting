@@ -123,6 +123,9 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 - Recommended to learn coding and manual testing at the same time.
 - Find resources to learn manual testing.
 - Choose a programming language and learn.
+- Like a conventional school learn few subjects in parallel.
+- coding is fun.
+- when comfortable with test cases apply your coding knowledge to automate your test cases.
 
 
 ## What is Static Testing?
