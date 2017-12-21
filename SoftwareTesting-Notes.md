@@ -99,6 +99,14 @@ Easiest way to start a career in QA
 - Guru99.com
 
 ## TEST CASE EXAMPLES
+## Some of the tools which you can use to create Test Cases
+
+- Test Links [FREE]
+- TestRail[Premium]
+- Bugzila[ FREE]
+
+
+Look at the examples on how to write some test cases.  Practice Test cases.
 
 
 
