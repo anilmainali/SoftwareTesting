@@ -89,7 +89,8 @@ Easiest way to start a career in QA
 - More salary.
 
 ## Grey Box Testing
-
+- Somewhere in middle of Black and White box testing.
+- Do manual testing.
 
 
 ## What is Static Testing?
