@@ -118,6 +118,12 @@ Look at the examples on how to write some test cases.  Practice Test cases.
 - Testing: Same as Manual testing , ability write test cases.
 - Coding : Purely technical, writing proper code.
 
+## Tips
+- First lessons in coding have nothing to do with testing.
+- Recommended to learn coding and manual testing at the same time.
+
+
+
 ## What is Static Testing?
 - Code is not executed
 - Manual review of code,documents to find the errors.
