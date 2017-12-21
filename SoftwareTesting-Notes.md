@@ -84,7 +84,9 @@ Easiest way to start a career in QA
 ## White Box Testing
 - Need knowledge of coding.
 - Access to the source code.
-
+- Dig in code and identify location of the bug.
+- Time consuming.
+- More salary.
 
 
 
