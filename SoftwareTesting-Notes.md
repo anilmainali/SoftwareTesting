@@ -49,6 +49,9 @@ Tips: You have to elaborate the answer and tell in detail.
 - Analyzing the results
 - Reporting the bugs
 
+## What is Manual Testing?
+
+
 ## What is Static Testing?
 - Code is not executed
 - Manual review of code,documents to find the errors.
