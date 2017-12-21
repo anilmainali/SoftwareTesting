@@ -139,7 +139,14 @@ Few places to get your hands dirty;
 - Practice by creating 2 or 3 pages of your own.
 - Automation is interacting with HTML.
 - Basic HTML is a must for Selenium.
+### XML
+XML stands for extensible Markup Language
 
+- used to carry data(transfer data)
+- Information packaged in organized manner/matter
+### Tutorial Resources:
+- w3school.com
+- youtube: Type: What is XML
 
 
 ## What is Static Testing?
