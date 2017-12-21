@@ -56,12 +56,6 @@ When you are testing as a action as a regular user should.
 - Testing a basic functionality
 - What a regular user do on regular basis
 
-## Common Terminology:
-- Regression Test
-- Smoke Test
-- Black Box Tester
-
-
 
 ## Negative Testng
 
@@ -69,6 +63,15 @@ This kind of testing is done when you try to break the system.
 - Trying to break the system
 - Try to cause an error
 - Try to find some error message
+
+## Common Terminology:
+- Regression Test
+- Smoke Test
+- Black Box Tester
+- White box Tester
+- Grey Box Tester
+- Test Case
+- Use Case
 
 
 ## What is Static Testing?
