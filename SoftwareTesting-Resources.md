@@ -8,3 +8,4 @@ Here are few sites where you can learn more about Software Testing.
 - https://www.joecolantonio.com/
 - http://www.eviltester.com/
 - http://www.welovetesting.com/
+- http://testinsane.com/
