@@ -25,6 +25,8 @@ Here are few sites where you can learn more about Software Testing.
 - Agile Testing: A Practical Guide for Testers and Agile Teams (Paperback) 
 - Beautiful Testing: Leading Professionals Reveal How They Improve Software (Paperback) 
 - Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing (Paperback) 
+- Testing Computer Software (Paperback) 
+by Cem Kaner
 
 Here is another link to check out the books on Software Testing.
 
