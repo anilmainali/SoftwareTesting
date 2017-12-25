@@ -20,4 +20,5 @@ Here are few sites where you can learn more about Software Testing.
 - The Art of Software Testing, Second Edition 2nd Edition by Glenford J. Myers (Author)
 -  Software Testing Techniques, 2nd edition by Boris Beizer (Author)
 - How to Break Software: A Practical Guide to Testing  by James A. Whittaker (Author)
+- Testing Object-Oriented Systems: Models, Patterns, and Tools by  Robert V. Binder (Author)
 
