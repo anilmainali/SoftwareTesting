@@ -18,4 +18,5 @@ Here are few sites where you can learn more about Software Testing.
 ## Books
 - A Practitioner's Guide to Software Test Design by Lee Copeland (Author)
 - The Art of Software Testing, Second Edition 2nd Edition by Glenford J. Myers (Author)
+-  Software Testing Techniques, 2nd edition by Boris Beizer (Author)
 
