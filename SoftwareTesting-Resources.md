@@ -23,6 +23,7 @@ Here are few sites where you can learn more about Software Testing.
 - Testing Object-Oriented Systems: Models, Patterns, and Tools by  Robert V. Binder (Author)
 - Lessons Learned in Software Testing: A Context-Driven Approach
 - Agile Testing: A Practical Guide for Testers and Agile Teams (Paperback) 
+- Beautiful Testing: Leading Professionals Reveal How They Improve Software (Paperback) 
 
 Here is another link to check out the books on Software Testing.
 
