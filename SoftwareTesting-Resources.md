@@ -16,5 +16,5 @@ Here are few sites where you can learn more about Software Testing.
 - https://huddle.eurostarsoftwaretesting.com/
 
 ## Books
-- A Practitioner's Guide to Software Test Design 
+- A Practitioner's Guide to Software Test Design by Lee Copeland (Author)
 
