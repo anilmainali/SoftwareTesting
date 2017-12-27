@@ -1,6 +1,7 @@
 
 #  Software Testing Notes:
-## Importance of Software Testing.
+## Importance of Software Testing:
+
 ## What is QA?
 Q stands for quality and A stands for Assurance.
 ## Why Company needs QA?
