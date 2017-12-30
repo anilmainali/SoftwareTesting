@@ -5,6 +5,8 @@ Resources where you can learn about ISTQB
 
 https://www.testingexcellence.com/
 
+## Training centers
+
 
 
 
