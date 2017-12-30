@@ -8,6 +8,12 @@ https://www.testingexcellence.com/
 ## Training centers
 https://www.learningtree.com/
 
+http://www.alpi.com/
+
+http://aspetraining.com/
+
+
+
 
 
 
