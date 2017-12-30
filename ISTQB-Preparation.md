@@ -18,6 +18,11 @@ https://rbcs-us.com/
 
 http://www.redrockresearch.com/A/Home/Seminars.aspx
 
+https://www.riceconsulting.com/
+
+https://www.sqetraining.com/
+
+
 
 
 
