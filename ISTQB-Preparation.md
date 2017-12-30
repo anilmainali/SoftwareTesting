@@ -22,6 +22,11 @@ https://www.riceconsulting.com/
 
 https://www.sqetraining.com/
 
+https://www.villanovau.com/
+
+https://www.tctcomputing.com/
+
+
 
 
 
