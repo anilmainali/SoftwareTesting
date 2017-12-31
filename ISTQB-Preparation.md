@@ -19,6 +19,8 @@ Resources where you can learn about ISTQB
 
 - http://www.gocertify.com/table/quizzes/astqb-and-istqb/
 
+- http://www.alpi.com/training/index.cfm?fuseaction=ShowDescription&CourseID=150&utm_source=BingAds&utm_medium=CPC&utm_term=ISTQB&utm_content=Foundation&utm_campaign=ISTQB%20Foundation
+
 ## Paid
 - https://www.udemy.com/istqb-foundation-level-practice-exams/
 
