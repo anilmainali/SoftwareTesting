@@ -15,6 +15,8 @@ Resources where you can learn about ISTQB
 
 - https://www.proprofs.com/quiz-school/story.php?title=istqb-foundation-level-practice-test-1_1
 
+- https://www.quora.com/What-are-good-websites-for-ISTQB-mock-tests
+
 ## Paid
 - https://www.udemy.com/istqb-foundation-level-practice-exams/
 
