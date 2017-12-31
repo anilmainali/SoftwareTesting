@@ -13,6 +13,9 @@ Resources where you can learn about ISTQB
 
 - http://istqbexamcertification.com/istqb-dumps-download-mock-tests-and-sample-question-papers/
 
+## Paid
+- https://www.udemy.com/istqb-foundation-level-practice-exams/
+
 ## Training centers
 https://www.learningtree.com/
 
