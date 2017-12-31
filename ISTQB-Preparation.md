@@ -3,13 +3,13 @@ Resources where you can learn about ISTQB
 
 ## Blog where you can practice for exams
 
-https://www.testingexcellence.com/
+- https://www.testingexcellence.com/
 
 https://istqb.patshala.com/
 
-http://talentedtester.com/free-istqb-sample-paper-sqz-1-bing/
+- http://talentedtester.com/free-istqb-sample-paper-sqz-1-bing/
 
-http://ilovetesting.com/istqb-exam-questions/
+- http://ilovetesting.com/istqb-exam-questions/
 
 ## Training centers
 https://www.learningtree.com/
