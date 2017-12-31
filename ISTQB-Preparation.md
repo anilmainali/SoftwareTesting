@@ -9,6 +9,8 @@ https://istqb.patshala.com/
 
 http://talentedtester.com/free-istqb-sample-paper-sqz-1-bing/
 
+http://ilovetesting.com/istqb-exam-questions/
+
 ## Training centers
 https://www.learningtree.com/
 
