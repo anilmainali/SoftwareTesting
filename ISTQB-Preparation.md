@@ -7,6 +7,8 @@ https://www.testingexcellence.com/
 
 https://istqb.patshala.com/
 
+http://talentedtester.com/free-istqb-sample-paper-sqz-1-bing/
+
 ## Training centers
 https://www.learningtree.com/
 
