@@ -5,11 +5,13 @@ Resources where you can learn about ISTQB
 
 - https://www.testingexcellence.com/
 
-https://istqb.patshala.com/
+- https://istqb.patshala.com/
 
 - http://talentedtester.com/free-istqb-sample-paper-sqz-1-bing/
 
 - http://ilovetesting.com/istqb-exam-questions/
+
+- http://istqbexamcertification.com/istqb-dumps-download-mock-tests-and-sample-question-papers/
 
 ## Training centers
 https://www.learningtree.com/
