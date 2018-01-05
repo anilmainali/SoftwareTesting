@@ -49,6 +49,8 @@ https://www.tctcomputing.com/
 
 ## Notes
 
+1. Testing shows presence of defects
+
 
 
 
