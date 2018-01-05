@@ -53,6 +53,8 @@ https://www.tctcomputing.com/
 1. Testing shows presence of defects
 2. Exhausted Testing Is Impossible
 3. Early Testing
+4. Defect Clustering
+
 
 
 
