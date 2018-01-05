@@ -54,6 +54,7 @@ https://www.tctcomputing.com/
 2. Exhausted Testing Is Impossible
 3. Early Testing
 4. Defect Clustering
+5. Pesticides Paradox
 
 
 
