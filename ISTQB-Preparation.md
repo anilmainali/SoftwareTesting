@@ -48,6 +48,7 @@ https://www.tctcomputing.com/
 
 
 ## Notes
+### Seven Testing Principles
 
 1. Testing shows presence of defects
 
