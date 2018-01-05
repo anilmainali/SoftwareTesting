@@ -56,6 +56,7 @@ https://www.tctcomputing.com/
 4. Defect Clustering
 5. Pesticides Paradox
 6. Testing is Context Dependent
+7. Absence-Of-Errors fallacy
 
 
 
