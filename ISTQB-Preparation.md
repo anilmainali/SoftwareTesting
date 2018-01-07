@@ -59,6 +59,8 @@ https://www.tctcomputing.com/
 7. Absence-Of-Errors fallacy
 
 ## Fundamental Test Process
+The fundamental test process consists of following activities:
+
 1. Planning And Control
 0. Analysis And Design
 0. Implementation And Execution
