@@ -82,6 +82,7 @@ The fundamental test process consists of following activities:
 1. Unit Testing
 0. Integration Testing
 0. System Testing
+0. Acceptance Testing
 
 
 
