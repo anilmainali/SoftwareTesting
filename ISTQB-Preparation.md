@@ -58,6 +58,9 @@ https://www.tctcomputing.com/
 6. Testing is Context Dependent
 7. Absence-Of-Errors fallacy
 
+## Fundamental Test Process
+
+
 
 
 
