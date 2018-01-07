@@ -74,6 +74,8 @@ The fundamental test process consists of following activities:
 - Judgement
 - Management
 - Profession
+- Colleagues
+
 
 
 
