@@ -59,6 +59,7 @@ https://www.tctcomputing.com/
 7. Absence-Of-Errors fallacy
 
 ## Fundamental Test Process
+1. Planning And Control
 
 
 
