@@ -70,6 +70,8 @@ The fundamental test process consists of following activities:
 ## Code Of Ethics:
 - Public
 - Client/Employer
+- Product
+
 
 
 
