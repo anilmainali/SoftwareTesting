@@ -67,6 +67,10 @@ The fundamental test process consists of following activities:
 0. Evaluating Exit Criteria And Reporting
 0. Test Clousure
 
+## Code Of Ethics:
+
+
+
 
 
 
