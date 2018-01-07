@@ -60,6 +60,7 @@ https://www.tctcomputing.com/
 
 ## Fundamental Test Process
 1. Planning And Control
+0. Analysis And Design
 
 
 
