@@ -63,6 +63,7 @@ https://www.tctcomputing.com/
 0. Analysis And Design
 0. Implementation And Execution
 0. Evaluating Exit Criteria And Reporting
+0. Test Clousure
 
 
 
