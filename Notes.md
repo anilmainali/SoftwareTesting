@@ -23,6 +23,7 @@
 0. http://www.c-sharpcorner.com/
 0. http://testfairy.com/
 0. http://www.te52.com/testtalk/
+0. http://www.rahulverma.net/the-pluralistic-school-of-testing/ - The Pluralistic School of Testing: Rahul Verma
 
 ### Learn about DevOps 
 https://blog.ruxit.com/devops/
