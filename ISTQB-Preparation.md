@@ -68,6 +68,8 @@ The fundamental test process consists of following activities:
 0. Test Clousure
 
 ## Code Of Ethics:
+- Public
+
 
 
 
