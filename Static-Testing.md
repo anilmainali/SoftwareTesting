@@ -21,6 +21,7 @@
 - Find causes of failures rather than the failures
 - usually used before dynamic techniques
 - Complementary to dynamic techniques
+- Manual reviews and automated static analysis
 
 
 
