@@ -17,3 +17,6 @@
 - Scribe
 
 ## Static Techniques and the Process
+- Test software without executing the code
+
+
