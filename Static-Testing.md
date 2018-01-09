@@ -18,5 +18,7 @@
 
 ## Static Techniques and the Process
 - Test software without executing the code
+- Find causes of failures rather than the failures
+
 
 
