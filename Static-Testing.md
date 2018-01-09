@@ -20,6 +20,8 @@
 - Test software without executing the code
 - Find causes of failures rather than the failures
 - usually used before dynamic techniques
+- Complementary to dynamic techniques
+
 
 
 
