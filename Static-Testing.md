@@ -15,3 +15,5 @@
 - Author
 - Reviewer
 - Scribe
+
+## Static Techniques and the Process
