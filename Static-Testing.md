@@ -27,6 +27,9 @@
 
 Reviews- are completed normally manually
 
+Static Tools- usually completed using tools
+
+
 
 
 
