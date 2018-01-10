@@ -37,10 +37,10 @@ Reviews can be used to test anything that is written or typed;this can include d
 - Requirement specifications
 - System designs
 - code
-
 - Test plans and 
 - Test cases.
-besides finding defects early there are also other benefits among them.
+
+Besides finding defects early there are also other benefits among them.
 
 
 
