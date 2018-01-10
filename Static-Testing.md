@@ -32,6 +32,10 @@ Static Tools- usually completed using tools
 
 - REVIEW
 A review is a systematic examanation of a document by one or more people with the aim of finding and removing errors.
+Reviews can be used to test anything that is written or typed;this can include documents such as 
+
+
+- Requirement specifications
 
 
 
