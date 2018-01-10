@@ -25,6 +25,9 @@
 
 ## Static Testing types
 
+Reviews- are completed normally manually
+
+
 
 
 
