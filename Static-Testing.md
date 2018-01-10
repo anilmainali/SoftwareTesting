@@ -23,6 +23,7 @@
 - Complementary to dynamic techniques
 - Manual reviews and automated static analysis
 
+## Static Testing types
 
 
 
