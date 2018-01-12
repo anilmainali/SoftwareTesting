@@ -13,6 +13,12 @@ http://awful-valentine.com/purchase-forms/slow-ajax/
 
 http://newtours.demoaut.com/
 
+http://automationpractice.com/index.php
+
+http://phptravels.com/demo/
+
+
+
 
 
 
