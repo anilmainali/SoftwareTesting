@@ -7,6 +7,9 @@ http://demoqa.com/
 
 https://www.ultimateqa.com/automation/
 
+https://www.qtptutorial.net/automation-practice/
+
+
 
 
 
