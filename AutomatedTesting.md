@@ -9,6 +9,12 @@ https://www.ultimateqa.com/automation/
 
 https://www.qtptutorial.net/automation-practice/
 
+http://awful-valentine.com/purchase-forms/slow-ajax/
+
+http://newtours.demoaut.com/
+
+
+
 
 
 
