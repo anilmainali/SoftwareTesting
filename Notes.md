@@ -70,6 +70,9 @@ http://findnerd.com/
 ## Useful Tool to wipe out all your Twitter Tweets
 0. http://twitwipe.com/
 
+## App to write notes 
+
+
 
 
 ## Tools to build Customized Diagrams and Report
