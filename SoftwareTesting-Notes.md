@@ -50,6 +50,18 @@ Tips: You have to elaborate the answer and tell in detail.
 - Support other teams in the company such as: 
 - Development- Sales - Customer Support
 
+# SDLC:
+1.	Understanding the business requirements
+2.	Converting business requirements into software requirements(SRS: Software requirements specifications / BRS: Business   requirements specifications)
+3.	Designing
+4.	Development
+5.	Testing
+6.	Maintance / Support
+a.	L1
+b.	L2
+c.	L3
+
+
 ## SOFTWARE (SW) Development Model
 - Waterfall
 - Agile
