@@ -1,6 +1,17 @@
 
 #  Software Testing Notes:
-## Importance of Software Testing:
+## Importance of Software Testing/Objectives of Software Testing
+
+- Finding defects which may get created by the programmer while developing the software.
+
+- Gaining confidence in and providing information about the level of quality.
+
+- To prevent defects.
+
+- To make sure that the end result meets the business and user requirements.
+
+- To ensure that it satisfies the BRS that is Business Requirement Specification and SRS that is System Requirement    Specifications.
+
 
 ## What is QA?
 Q stands for quality and A stands for Assurance.
