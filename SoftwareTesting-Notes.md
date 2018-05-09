@@ -111,6 +111,9 @@ Easiest way to start a career in QA
 - No access to the source code but know how components of the application work.
 - Technical but not as technical as White Box Testing.
 
+# Difference Between Defect/Error/Bug?
+TODO
+
 ## Some Places to learn about Manual testing
 
 - Guru99.com
