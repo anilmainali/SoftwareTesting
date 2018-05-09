@@ -1,5 +1,12 @@
 
 #  Software Testing Notes:
+
+## What is QA?
+Q stands for quality and A stands for Assurance.
+
+## Why Company needs QA?
+Quality
+
 ## Importance of Software Testing/Objectives of Software Testing
 
 - Finding defects which may get created by the programmer while developing the software.
@@ -13,10 +20,7 @@
 - To ensure that it satisfies the BRS that is Business Requirement Specification and SRS that is System Requirement    Specifications.
 
 
-## What is QA?
-Q stands for quality and A stands for Assurance.
-## Why Company needs QA?
-Quality
+
 ## QA Types?
 Different industry has different standards/requirements.
 ## QA Professionalism?
