@@ -60,6 +60,12 @@ Tips: You have to elaborate the answer and tell in detail.
 a.	L1
 b.	L2
 c.	L3
+# Who does What?
+- Understanding the business requirements - BA(Business Analyst)
+- Converting business requirements into software requirements(SRS: Software requirements specifications / BRS: Business      requirements specifications)- BA(Business Analyst)
+- Designing - Architect
+- Development - Developer
+- Testing - Tester
 
 
 ## SOFTWARE (SW) Development Model
@@ -126,6 +132,8 @@ Easiest way to start a career in QA
 # Difference Between Defect/Error/Bug?
 TODO
 
+
+
 ## Some Places to learn about Manual testing
 
 - Guru99.com
@@ -171,6 +179,7 @@ Few places to get your hands dirty;
 - Practice by creating 2 or 3 pages of your own.
 - Automation is interacting with HTML.
 - Basic HTML is a must for Selenium.
+
 ### XML
 XML stands for extensible Markup Language
 
